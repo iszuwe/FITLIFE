@@ -1,13 +1,33 @@
-🌟 Excited to share my Final Year Project! 🌟
-After months of designing, coding, testing, and pixel-pushing, I'm proud to present my FYP:
- 🎮 FITLIFE – a 2D RPG game focused on promoting healthy living through gamification.
-In FITLIFE, players help a character improve their health by managing diet, making better food choices, and staying active. The game includes:
- ✅ Interactive NPCs
- ✅ Health, diet, and satiety bars
- ✅ Educational notes and quizzes
- ✅ Reward system with coins
- ✅ Save/load system with custom UI
-🛠️ Built with: Unity, C#, Aseprite, and Visual Studio
-This project reflects my passion for game development, interactive learning and using technology to make a real impact.
+# FitLife 🎮
 
-Would love to connect with anyone in the industry! Let’s build something meaningful together. 🙌
+**FitLife** is a 2D RPG game developed in Unity where players manage their character’s health through diet, exercise, and daily challenges. The goal is to promote awareness of healthy living habits in a fun and interactive way.
+
+---
+
+## 🌟 Features
+- 🏃 Exercise & diet management system  
+- 🍎 Collect coins and spend on food items  
+- 📚 Learn healthy tips from the Dietitian NPC  
+- ❓ Interactive quizzes to test your knowledge  
+- 🎯 Quest and reward system  
+
+---
+
+## 🛠️ Tech Stack
+- **Game Engine:** Unity  
+- **Language:** C#  
+- **Art:** Pixel art (Aseprite)  
+- **Version Control:** Git + GitHub  
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- [Unity Hub](https://unity.com/download) (Unity 2021.3 LTS or newer recommended)  
+- Git (for version control)  
+
+### Installation
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/FitLife.git
