@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 523eaafb41604434baeaf224366d1307, type: 3}
+  m_Name: Penurunanberatbadan
+  m_EditorClassIdentifier: 
+  topicKey: Topic_penurunanberatbadan
+  topicName: Topic_penurunanberatbadan
+  questions:
+  - question: Apakah prinsip utama untuk penurunan berat badan yang sihat?
+    answers:
+    - Mengambil makanan tanpa had.
+    - Mencipta defisit kalori.
+    - Hanya minum jus buah-buahan.
+    - Mengelakkan sarapan pagi.
+    correctAnswerIndex: 1
+  - question: Selain diet, apakah faktor penting yang membantu penurunan berat badan?
+    answers:
+    - Duduk sahaja sepanjang hari.
+    - Peningkatan aktiviti fizikal.
+    - Mengambil lebih banyak makanan ringan.
+    - Kurang tidur.
+    correctAnswerIndex: 1
+  - question: Mengapa penting untuk fokus pada perubahan gaya hidup yang mampan untuk
+      penurunan berat badan?
+    answers:
+    - ntuk memastikan berat badan naik semula dengan cepat.
+    - Kerana ia tidak memberikan hasil yang ketara.
+    - ntuk memastikan hasil yang kekal dan sihat, bukan penyelesaian sementara.
+    - Kerana ia lebih mahal.
+    correctAnswerIndex: 2

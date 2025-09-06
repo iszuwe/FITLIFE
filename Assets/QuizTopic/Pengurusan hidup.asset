@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 523eaafb41604434baeaf224366d1307, type: 3}
+  m_Name: Pengurusan hidup
+  m_EditorClassIdentifier: 
+  topicKey: Topic_pengurusangayahidup
+  topicName: Topic_pengurusangayahidup
+  questions:
+  - question: Mengapa penting untuk buat jadual harian?
+    answers:
+    - Untuk hidup lebih teratur
+    - Untuk jadi lebih popular
+    - Supaya boleh tidur sepanjang hari
+    - Supaya boleh main telefon lebih lama
+    correctAnswerIndex: 0
+  - question: Apakah kesan negatif jika terlalu lama melihat skrin?
+    answers:
+    - Menjadikan kita lebih bertenaga
+    - Menjadikan kita lebih kreatif
+    - Menyebabkan kita susah tidur dan kurang aktif
+    - Menjadikan makanan lebih sedap
+    correctAnswerIndex: 2
+  - question: 'Contoh pengurusan hidup sihat ialah:'
+    answers:
+    - Makan ikut emosi
+    - Merancang menu sihat dan senaman
+    - Main game sampai lewat malam
+    - Minum air manis setiap hari
+    correctAnswerIndex: 1

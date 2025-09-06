@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 523eaafb41604434baeaf224366d1307, type: 3}
+  m_Name: PanduanMakanan
+  m_EditorClassIdentifier: 
+  topicKey: Topic_panduanmakanan
+  topicName: Topic_panduanmakanan
+  questions:
+  - question: Apakah yang ditekankan dalam panduan makanan yang sihat?
+    answers:
+    - Hanya makan makanan kegemaran anda.
+    - Mengambil pelbagai jenis makanan daripada semua kumpulan makanan utama.
+    - ' Mengelakkan semua jenis karbohidrat.'
+    - Makan pada waktu malam sahaja.
+    correctAnswerIndex: 1
+  - question: Mengapakah penting untuk mengelakkan makanan diproses dan gula berlebihan?
+    answers:
+    - ' Ia membuatkan makanan lebih sedap.'
+    - Ia membantu badan kita berfungsi lebih baik dan mencegah penyakit.
+    - Ia tiada kaitan dengan kesihatan.
+    - Ia hanya untuk orang yang sedang berdiet.
+    correctAnswerIndex: 1
+  - question: Apakah dua jenis nutrien yang penting untuk fungsi badan yang optimum?
+    answers:
+    - Gula dan garam.
+    - Perisa dan pewarna.
+    - Makro (karbohidrat, protein, lemak) dan mikro (vitamin, mineral).
+    - Minyak dan cuka.
+    correctAnswerIndex: 2

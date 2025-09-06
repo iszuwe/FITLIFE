@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8f7de8bc88f9247a5efe7518074fb6, type: 3}
+  m_Name: RotiCanai
+  m_EditorClassIdentifier: 
+  foodName: Roti Canai
+  icon: {fileID: 21300000, guid: a318eb208e4b22043b8cd0764c5a1458, type: 3}
+  description: A famous indian food in mamak
+  healthValue: 0
+  dietValue: -5
+  satietyValue: 20
+  price: 10

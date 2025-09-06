@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 523eaafb41604434baeaf224366d1307, type: 3}
+  m_Name: Kesihatan secara menyeluruh
+  m_EditorClassIdentifier: 
+  topicKey: Topic_kesihatansecaramenyeluruh
+  topicName: Topic_kesihatansecaramenyeluruh
+  questions:
+  - question: Apakah yang termasuk dalam kesihatan menyeluruh?
+    answers:
+    - Makan ubat setiap hari
+    - Pemakanan, senaman, tidur dan emosi
+    - Hanya senaman
+    - Bekerja tanpa rehat
+    correctAnswerIndex: 1
+  - question: Berapakah jam tidur yang disarankan untuk kesihatan?
+    answers:
+    - 4 jam
+    - "5\u20136 jam"
+    - "7\u20139 jam"
+    - Lebih 10 jam
+    correctAnswerIndex: 2
+  - question: Mengapa hubungan sosial penting untuk kesihatan?
+    answers:
+    - Supaya kita tidak merasa sunyi
+    - Untuk buat kerja rumah
+    - Supaya boleh makan lebih
+    - Untuk jadi popular
+    correctAnswerIndex: 0
